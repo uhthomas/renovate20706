@@ -52,6 +52,8 @@ github.com/chzyer/logex v1.1.10/go.mod h1:+Ywpsq7O8HXn0nuIou7OrIPyXbp3wmkHB+jjWR
 github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e/go.mod h1:nSuG5e5PlCu98SY8svDHJxuZscDgtXS6KTTbou5AhLI=
 github.com/chzyer/test v0.0.0-20180213035817-a1ea475d72b1/go.mod h1:Q3SI9o4m/ZMnBNeIyt5eFwwo7qiLfzFZmjNmxjkiQlU=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
+github.com/cloudflare/cloudflared v0.0.0-20230302083451-354281fc6a29 h1:B1EaI9pDYCrD6ynxLLKxvznE7IrrX4AHgh4oG94CfuM=
+github.com/cloudflare/cloudflared v0.0.0-20230302083451-354281fc6a29/go.mod h1:neBCneZzWNBsBkK3czUfUZzIXuxYqQ1twbd4MTTFeso=
 github.com/cloudflare/cloudflared v0.0.0-20230302084805-4c3417fedda9 h1:NRQB7u+Hjtg+eLWG84nBXgn+rCF4UpZJ6OP+rUW9jUg=
 github.com/cloudflare/cloudflared v0.0.0-20230302084805-4c3417fedda9/go.mod h1:neBCneZzWNBsBkK3czUfUZzIXuxYqQ1twbd4MTTFeso=
 github.com/cncf/udpa/go v0.0.0-20191209042840-269d4d468f6f/go.mod h1:M8M6+tZqaGXZJjfX53e64911xZQV5JYwmTeXPW+k8Sc=

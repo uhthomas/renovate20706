@@ -2,7 +2,7 @@ module github.com/uhthomas/renovate20706
 
 go 1.20
 
-require github.com/cloudflare/cloudflared v0.0.0-20230302084805-4c3417fedda9
+require github.com/cloudflare/cloudflared v0.0.0-20230302083451-354281fc6a29
 
 require (
 	github.com/apparentlymart/go-cidr v1.1.0 // indirect
