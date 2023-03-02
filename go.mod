@@ -2,7 +2,7 @@ module github.com/uhthomas/renovate20706
 
 go 1.20
 
-require github.com/cloudflare/cloudflared v0.0.0-20200630175554-dbe351620448
+require github.com/cloudflare/cloudflared v0.0.0-20230302105935-7080b8b2e69f
 
 require (
 	github.com/apparentlymart/go-cidr v1.1.0 // indirect
@@ -30,10 +30,10 @@ require (
 	github.com/urfave/cli/v2 v2.3.0 // indirect
 	golang.org/x/crypto v0.5.0 // indirect
 	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
-	golang.org/x/net v0.5.0 // indirect
+	golang.org/x/net v0.7.0 // indirect
 	golang.org/x/oauth2 v0.4.0 // indirect
-	golang.org/x/sys v0.4.0 // indirect
-	golang.org/x/text v0.6.0 // indirect
+	golang.org/x/sys v0.5.0 // indirect
+	golang.org/x/text v0.7.0 // indirect
 	golang.org/x/tools v0.1.12 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20221202195650-67e5cbc046fd // indirect
