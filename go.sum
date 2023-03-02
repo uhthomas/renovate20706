@@ -56,6 +56,8 @@ github.com/cloudflare/cloudflared v0.0.0-20230302083451-354281fc6a29 h1:B1EaI9pD
 github.com/cloudflare/cloudflared v0.0.0-20230302083451-354281fc6a29/go.mod h1:neBCneZzWNBsBkK3czUfUZzIXuxYqQ1twbd4MTTFeso=
 github.com/cloudflare/cloudflared v0.0.0-20230302084805-4c3417fedda9 h1:NRQB7u+Hjtg+eLWG84nBXgn+rCF4UpZJ6OP+rUW9jUg=
 github.com/cloudflare/cloudflared v0.0.0-20230302084805-4c3417fedda9/go.mod h1:neBCneZzWNBsBkK3czUfUZzIXuxYqQ1twbd4MTTFeso=
+github.com/cloudflare/cloudflared v0.0.0-20230302105935-7080b8b2e69f h1:RN9ymoc72pzd3+9TL4DCZDoP9wKeX1Exj8vCSlNlaqI=
+github.com/cloudflare/cloudflared v0.0.0-20230302105935-7080b8b2e69f/go.mod h1:neBCneZzWNBsBkK3czUfUZzIXuxYqQ1twbd4MTTFeso=
 github.com/cncf/udpa/go v0.0.0-20191209042840-269d4d468f6f/go.mod h1:M8M6+tZqaGXZJjfX53e64911xZQV5JYwmTeXPW+k8Sc=
 github.com/coredns/caddy v1.1.1 h1:2eYKZT7i6yxIfGP3qLJoJ7HAsDJqYB+X68g4NYjSrE0=
 github.com/coredns/caddy v1.1.1/go.mod h1:A6ntJQlAWuQfFlsd9hvigKbo2WS0VUs2l1e2F+BawD4=
